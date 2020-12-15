@@ -1,0 +1,10 @@
+[CustomSkin]
+CinematicBorder=war3mapImported\nerub-cinematic-border.blp
+ConsoleInventoryCoverTexture=war3mapImported\nerub-inventory cover.blp
+ConsoleInventoryNoCapacity=war3mapImported\nerub-inventory-slotfiller.blp
+ConsoleTexture01=war3mapImported\nerub-tile 1.blp
+ConsoleTexture02=war3mapImported\nerub-tile 2.blp
+ConsoleTexture03=war3mapImported\nerub-tile 3.blp
+ConsoleTexture04=war3mapImported\nerub-tile 4.blp
+EscMenuBorder=war3mapImported\nerub-options-menu-border.blp
+
